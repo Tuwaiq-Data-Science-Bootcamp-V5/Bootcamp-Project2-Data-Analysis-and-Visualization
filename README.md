@@ -1,30 +1,25 @@
-# 2- Data Preprocessing and Analysis Project
-Based on what you’ve learned until now, use NumPy, pandas, matplotlib, and seaborn to create a project of your choosing.
+# project-2 : Data Preprocessing and Analysis Project
+### Team Members: Dalal Alharbi - Abdullah Alfayez - Mohammed Alzaidani 
+## Problem statement: 
+  This project aims to analyze historical weather data for the regions of Saudi Arabia and
+  identify trends and patterns in temperature.
+## Objectives:
+  *	clean historical weather data for Saudi Arabia regions from 2017 to 2019.
+  * Analyze the data to identify trends and patterns in temperature.
+  * Visualize the data using appropriate charts and graphs to communicate the findings.
+  * Identify any correlations between temperature, and other factors such as wind, time of year, and humidity.
+## Overview over dataset:
+  We chose this dataset from Kaggle, it provides hourly historical weather data for Saudi Arabia regions from 2017 to 2019. Consists
+  of many features like temperature, wind, humidity, barometer, and visibility.
+### Through the data visualization process, we Derive the following insights:
+- The highest average temperature recorded was in the Mecca region.
+- The highest average temperature over three years was in Mecca, Medina, and Riyadh.
+- The lowest average temperature recorded was in the Asir region.
+- Over three years Jawf region had the lowest temperature in SA it reached -4.
+- Over three years there were many regions where temperatures reached below zero: Hail, Jawf, Qassim, Tabouk, and the Northern border.
+- The northern regions of SA are always the coldest in winter.
+- There is a relationship between wind and temperature, we observe that in high temperatures there is high wind speed.
+- In 2017, The EP reached the highest temp in SA which was 50.
+- The most common temperatures recorded in the Riyadh region were between 20 to 35.
+- There is no high variation between temperatures during these three years.
 
-This project must at least satisfy the following minimum requirements:
-
-- Choose a public dataset that needs to clean and preprocess.
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, missing values
-    - Apply the additional EDA steps based on your dataset needs.
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
-    - Draw a subplot using the previous charts.
-    - Apply chart format include:
-    - Choose a specific style for your charts.
-    - Apply one color palette from your choice on all charts.
-    - Use title, x and y labels, font size, figure size, legends
-- Use pandas profiling.
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-
-
-- The Final presentation will be on Sunday (10 min for each group).
-- Due Date: Sun, 5 Nov, 3:00 pm
-Final Deliverables:
-- Notebook file(.ipynb).
-- Dataset file.
-- README.md file.
