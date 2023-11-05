@@ -1,0 +1,313 @@
+﻿Year;Type;Region;value;Total
+2017;Private;Northern Borders;1051.0;1118024.0
+2017;Taxi;Al-Madinah Al-Monawarah;4.0;27417.0
+2017;Taxi;Tabouk;0.0;27417.0
+2017;Taxi;Najran;0.0;27417.0
+2017;Taxi;Al-Baha;16.0;27417.0
+2017;Public -Truck;Najran;152.0;76415.0
+2017;Private-Truck;Makkah Al-Mokarramah;50855.0;144758.0
+2017;Private-Truck;Eastern Region;46.0;144758.0
+2017;Private-Truck;Aseer;16.0;144758.0
+2017;Public Bus;Makkah Al-Mokarramah;3145.0;7100.0
+2017;Public Bus;Eastern Region;18.0;7100.0
+2017;Public Bus;Najran;0.0;7100.0
+2017;Private Bus;Al-Madinah Al-Monawarah;92.0;16289.0
+2017;Private Bus;Aseer;1536.0;16289.0
+2017;Private Bus;Jazan;0.0;16289.0
+2017;Private Bus;Al-Jouf;14.0;16289.0
+2017;Motor-Cycle;Al-Qaseem;103.0;3631.0
+2017;Vehicles;Al-Riyadh;1134.0;2075.0
+2018;Private;Al-Riyadh;285457.0;1118089.0
+2018;Private;Aseer;48660.0;1118089.0
+2018;Private;Northern Borders;828.0;1118089.0
+2018;Private;Najran;2588.0;1118089.0
+2018;Taxi;Eastern Region;903.0;28502.0
+2018;Taxi;Najran;3.0;28502.0
+2018;Public -Truck;Eastern Region;10307.0;59528.0
+2018;Public -Truck;Hail;182.0;59528.0
+2018;Private-Truck;Al-Riyadh;64932.0;186420.0
+2018;Private-Truck;Aseer;21065.0;186420.0
+2018;Private-Truck;Al-Baha;499.0;186420.0
+2018;Public Bus;Tabouk;0.0;3383.0
+2018;Public Bus;Najran;66.0;3383.0
+2018;Public Bus;Al-Baha;0.0;3383.0
+2018;Public Bus;Al-Jouf;13.0;3383.0
+2018;Private Bus;Tabouk;0.0;15411.0
+2018;Private Bus;Northern Borders;0.0;15411.0
+2018;Motor-Cycle;Al-Madinah Al-Monawarah;63.0;3829.0
+2018;Vehicles;Tabouk;0.0;2324.0
+2019;Private;Najran;3564.0;1012346.0
+2019;Taxi;Al-Madinah Al-Monawarah;0.0;25013.0
+2019;Taxi;Aseer;30.0;25013.0
+2019;Taxi;Najran;0.0;25013.0
+2019;Public -Truck;Al-Riyadh;41257.0;76275.0
+2019;Public -Truck;Makkah Al-Mokarramah;11358.0;76275.0
+2019;Public -Truck;Al-Qaseem;7776.0;76275.0
+2019;Public -Truck;Eastern Region;7100.0;76275.0
+2019;Private-Truck;Makkah Al-Mokarramah;12783.0;106395.0
+2019;Private-Truck;Najran;3361.0;106395.0
+2019;Public Bus;Al-Riyadh;809.0;4633.0
+2019;Public Bus;Al-Madinah Al-Monawarah;22.0;4633.0
+2019;Public Bus;Hail;77.0;4633.0
+2019;Private Bus;Al-Madinah Al-Monawarah;29.0;8701.0
+2019;Private Bus;Jazan;22.0;8701.0
+2019;Motor-Cycle;Al-Madinah Al-Monawarah;220.0;4719.0
+2019;Vehicles;Eastern Region;451.0;2691.0
+2019;Vehicles;Aseer;95.0;2691.0
+2019;Vehicles;Jazan;26.0;2691.0
+2017;Private;Eastern Region;431596.0;1118024.0
+2017;Private;Aseer;72563.0;1118024.0
+2017;Private;Al-Baha;1380.0;1118024.0
+2017;Private;Al-Jouf;4181.0;1118024.0
+2017;Taxi;Al-Qaseem;484.0;27417.0
+2017;Taxi;Aseer;98.0;27417.0
+2017;Taxi;Northern Borders;0.0;27417.0
+2017;Public -Truck;Hail;193.0;76415.0
+2017;Public -Truck;Jazan;272.0;76415.0
+2017;Public -Truck;Al-Baha;43.0;76415.0
+2017;Public -Truck;Al-Jouf;336.0;76415.0
+2017;Private-Truck;Tabouk;3072.0;144758.0
+2017;Public Bus;Tabouk;0.0;7100.0
+2017;Private Bus;Eastern Region;0.0;16289.0
+2017;Motor-Cycle;Makkah Al-Mokarramah;1398.0;3631.0
+2017;Motor-Cycle;Al-Madinah Al-Monawarah;53.0;3631.0
+2017;Motor-Cycle;Eastern Region;912.0;3631.0
+2017;Vehicles;Hail;2.0;2075.0
+2018;Private;Al-Qaseem;16356.0;1118089.0
+2018;Private;Eastern Region;319620.0;1118089.0
+2018;Private;Hail;7309.0;1118089.0
+2018;Taxi;Al-Qaseem;387.0;28502.0
+2018;Public -Truck;Northern Borders;51.0;59528.0
+2018;Public -Truck;Al-Jouf;155.0;59528.0
+2018;Private-Truck;Najran;1631.0;186420.0
+2018;Private-Truck;Al-Jouf;4199.0;186420.0
+2018;Private Bus;Makkah Al-Mokarramah;2568.0;15411.0
+2018;Private Bus;Al-Madinah Al-Monawarah;7.0;15411.0
+2018;Private Bus;Eastern Region;899.0;15411.0
+2018;Private Bus;Al-Jouf;123.0;15411.0
+2018;Motor-Cycle;Al-Riyadh;1073.0;3829.0
+2018;Motor-Cycle;Makkah Al-Mokarramah;1601.0;3829.0
+2018;Motor-Cycle;Tabouk;0.0;3829.0
+2018;Motor-Cycle;Northern Borders;2.0;3829.0
+2018;Motor-Cycle;Jazan;151.0;3829.0
+2018;Vehicles;Hail;14.0;2324.0
+2018;Vehicles;Northern Borders;0.0;2324.0
+2019;Private;Al-Baha;912.0;1012346.0
+2019;Private;Al-Jouf;3838.0;1012346.0
+2019;Taxi;Hail;6.0;25013.0
+2019;Private-Truck;Al-Riyadh;31044.0;106395.0
+2019;Private-Truck;Al-Madinah Al-Monawarah;1341.0;106395.0
+2019;Private-Truck;Al-Qaseem;6754.0;106395.0
+2019;Private-Truck;Al-Jouf;2391.0;106395.0
+2019;Public Bus;Jazan;0.0;4633.0
+2019;Public Bus;Al-Baha;120.0;4633.0
+2019;Private Bus;Al-Qaseem;196.0;8701.0
+2019;Private Bus;Northern Borders;0.0;8701.0
+2019;Private Bus;Al-Jouf;50.0;8701.0
+2019;Motor-Cycle;Al-Riyadh;761.0;4719.0
+2019;Motor-Cycle;Makkah Al-Mokarramah;1801.0;4719.0
+2019;Motor-Cycle;Hail;13.0;4719.0
+2019;Motor-Cycle;Jazan;141.0;4719.0
+2019;Motor-Cycle;Najran;10.0;4719.0
+2019;Motor-Cycle;Al-Jouf;291.0;4719.0
+2019;Vehicles;Al-Qaseem;111.0;2691.0
+2019;Vehicles;Hail;23.0;2691.0
+2019;Vehicles;Najran;20.0;2691.0
+2017;Private;Tabouk;8044.0;1118024.0
+2017;Private;Jazan;15168.0;1118024.0
+2017;Taxi;Al-Riyadh;22189.0;27417.0
+2017;Public -Truck;Al-Riyadh;19310.0;76415.0
+2017;Public -Truck;Makkah Al-Mokarramah;6459.0;76415.0
+2017;Public -Truck;Al-Qaseem;8929.0;76415.0
+2017;Private-Truck;Al-Riyadh;64469.0;144758.0
+2017;Private-Truck;Jazan;5388.0;144758.0
+2017;Private-Truck;Najran;932.0;144758.0
+2017;Public Bus;Al-Madinah Al-Monawarah;59.0;7100.0
+2017;Public Bus;Hail;4.0;7100.0
+2017;Public Bus;Jazan;1.0;7100.0
+2017;Private Bus;Al-Riyadh;11514.0;16289.0
+2017;Private Bus;Hail;196.0;16289.0
+2017;Private Bus;Al-Baha;1.0;16289.0
+2017;Motor-Cycle;Al-Jouf;5.0;3631.0
+2017;Vehicles;Al-Qaseem;170.0;2075.0
+2017;Vehicles;Aseer;5.0;2075.0
+2017;Vehicles;Al-Jouf;0.0;2075.0
+2018;Private;Makkah Al-Mokarramah;412942.0;1118089.0
+2018;Private;Tabouk;6969.0;1118089.0
+2018;Private;Al-Baha;679.0;1118089.0
+2018;Taxi;Jazan;0.0;28502.0
+2018;Taxi;Al-Baha;0.0;28502.0
+2018;Public -Truck;Al-Riyadh;33110.0;59528.0
+2018;Public -Truck;Jazan;85.0;59528.0
+2018;Public -Truck;Al-Baha;55.0;59528.0
+2018;Public Bus;Al-Madinah Al-Monawarah;0.0;3383.0
+2018;Public Bus;Hail;59.0;3383.0
+2018;Private Bus;Al-Riyadh;11244.0;15411.0
+2018;Private Bus;Aseer;41.0;15411.0
+2018;Private Bus;Hail;239.0;15411.0
+2018;Private Bus;Najran;71.0;15411.0
+2018;Motor-Cycle;Eastern Region;787.0;3829.0
+2018;Motor-Cycle;Aseer;29.0;3829.0
+2018;Motor-Cycle;Najran;14.0;3829.0
+2018;Motor-Cycle;Al-Jouf;14.0;3829.0
+2018;Vehicles;Makkah Al-Mokarramah;508.0;2324.0
+2018;Vehicles;Al-Madinah Al-Monawarah;53.0;2324.0
+2018;Vehicles;Al-Baha;0.0;2324.0
+2018;Vehicles;Al-Jouf;35.0;2324.0
+2019;Private;Al-Madinah Al-Monawarah;4113.0;1012346.0
+2019;Private;Aseer;48338.0;1012346.0
+2019;Private;Northern Borders;1022.0;1012346.0
+2019;Taxi;Al-Riyadh;16977.0;25013.0
+2019;Taxi;Makkah Al-Mokarramah;6804.0;25013.0
+2019;Taxi;Al-Qaseem;297.0;25013.0
+2019;Taxi;Northern Borders;0.0;25013.0
+2019;Public -Truck;Aseer;6704.0;76275.0
+2019;Public -Truck;Tabouk;138.0;76275.0
+2019;Public -Truck;Northern Borders;38.0;76275.0
+2019;Public -Truck;Al-Jouf;347.0;76275.0
+2019;Private-Truck;Tabouk;333.0;106395.0
+2019;Private-Truck;Hail;2908.0;106395.0
+2019;Private-Truck;Northern Borders;474.0;106395.0
+2019;Private-Truck;Jazan;1870.0;106395.0
+2019;Public Bus;Makkah Al-Mokarramah;1928.0;4633.0
+2019;Public Bus;Eastern Region;415.0;4633.0
+2019;Public Bus;Najran;11.0;4633.0
+2019;Private Bus;Al-Riyadh;4523.0;8701.0
+2019;Private Bus;Makkah Al-Mokarramah;1982.0;8701.0
+2019;Private Bus;Hail;110.0;8701.0
+2019;Motor-Cycle;Aseer;236.0;4719.0
+2019;Motor-Cycle;Tabouk;0.0;4719.0
+2019;Motor-Cycle;Al-Baha;16.0;4719.0
+2019;Vehicles;Al-Madinah Al-Monawarah;231.0;2691.0
+2019;Vehicles;Tabouk;0.0;2691.0
+2017;Private;Al-Madinah Al-Monawarah;6658.0;1118024.0
+2017;Private;Al-Qaseem;22769.0;1118024.0
+2017;Private;Hail;4513.0;1118024.0
+2017;Private;Najran;2012.0;1118024.0
+2017;Taxi;Hail;9.0;27417.0
+2017;Taxi;Jazan;6.0;27417.0
+2017;Taxi;Al-Jouf;49.0;27417.0
+2017;Public -Truck;Al-Madinah Al-Monawarah;1235.0;76415.0
+2017;Public -Truck;Aseer;6325.0;76415.0
+2017;Public -Truck;Tabouk;882.0;76415.0
+2017;Public -Truck;Northern Borders;133.0;76415.0
+2017;Private-Truck;Al-Qaseem;8104.0;144758.0
+2017;Private-Truck;Hail;2422.0;144758.0
+2017;Private-Truck;Northern Borders;851.0;144758.0
+2017;Private-Truck;Al-Baha;1147.0;144758.0
+2017;Public Bus;Al-Qaseem;399.0;7100.0
+2017;Public Bus;Aseer;2492.0;7100.0
+2017;Public Bus;Northern Borders;0.0;7100.0
+2017;Public Bus;Al-Jouf;0.0;7100.0
+2017;Private Bus;Makkah Al-Mokarramah;2575.0;16289.0
+2017;Private Bus;Northern Borders;0.0;16289.0
+2017;Motor-Cycle;Al-Riyadh;1078.0;3631.0
+2017;Motor-Cycle;Aseer;8.0;3631.0
+2017;Motor-Cycle;Jazan;53.0;3631.0
+2017;Motor-Cycle;Al-Baha;8.0;3631.0
+2017;Vehicles;Makkah Al-Mokarramah;686.0;2075.0
+2017;Vehicles;Eastern Region;13.0;2075.0
+2017;Vehicles;Tabouk;0.0;2075.0
+2017;Vehicles;Jazan;0.0;2075.0
+2017;Vehicles;Najran;20.0;2075.0
+2018;Private;Al-Madinah Al-Monawarah;4552.0;1118089.0
+2018;Taxi;Al-Riyadh;21662.0;28502.0
+2018;Taxi;Makkah Al-Mokarramah;4079.0;28502.0
+2018;Taxi;Al-Madinah Al-Monawarah;1432.0;28502.0
+2018;Taxi;Tabouk;0.0;28502.0
+2018;Public -Truck;Al-Qaseem;8045.0;59528.0
+2018;Public -Truck;Aseer;1136.0;59528.0
+2018;Public -Truck;Tabouk;341.0;59528.0
+2018;Public -Truck;Najran;287.0;59528.0
+2018;Private-Truck;Eastern Region;28153.0;186420.0
+2018;Private-Truck;Hail;4302.0;186420.0
+2018;Private-Truck;Northern Borders;502.0;186420.0
+2018;Public Bus;Al-Riyadh;923.0;3383.0
+2018;Public Bus;Makkah Al-Mokarramah;1671.0;3383.0
+2018;Public Bus;Al-Qaseem;301.0;3383.0
+2018;Public Bus;Aseer;99.0;3383.0
+2018;Private Bus;Al-Qaseem;219.0;15411.0
+2018;Private Bus;Jazan;0.0;15411.0
+2018;Private Bus;Al-Baha;0.0;15411.0
+2018;Motor-Cycle;Al-Qaseem;74.0;3829.0
+2018;Motor-Cycle;Al-Baha;10.0;3829.0
+2018;Vehicles;Al-Qaseem;118.0;2324.0
+2018;Vehicles;Eastern Region;172.0;2324.0
+2018;Vehicles;Jazan;0.0;2324.0
+2019;Private;Eastern Region;259760.0;1012346.0
+2019;Private;Tabouk;4623.0;1012346.0
+2019;Private;Hail;6243.0;1012346.0
+2019;Taxi;Eastern Region;885.0;25013.0
+2019;Taxi;Tabouk;0.0;25013.0
+2019;Taxi;Al-Jouf;5.0;25013.0
+2019;Public -Truck;Al-Madinah Al-Monawarah;270.0;76275.0
+2019;Public -Truck;Al-Baha;254.0;76275.0
+2019;Private-Truck;Eastern Region;29539.0;106395.0
+2019;Private-Truck;Al-Baha;704.0;106395.0
+2019;Public Bus;Al-Qaseem;250.0;4633.0
+2019;Public Bus;Aseer;990.0;4633.0
+2019;Public Bus;Tabouk;0.0;4633.0
+2019;Private Bus;Eastern Region;987.0;8701.0
+2019;Motor-Cycle;Northern Borders;13.0;4719.0
+2019;Vehicles;Northern Borders;1.0;2691.0
+2017;Private;Al-Riyadh;343764.0;1118024.0
+2017;Private;Makkah Al-Mokarramah;204325.0;1118024.0
+2017;Taxi;Makkah Al-Mokarramah;4414.0;27417.0
+2017;Taxi;Eastern Region;148.0;27417.0
+2017;Public -Truck;Eastern Region;32146.0;76415.0
+2017;Private-Truck;Al-Madinah Al-Monawarah;4332.0;144758.0
+2017;Private-Truck;Al-Jouf;3124.0;144758.0
+2017;Public Bus;Al-Riyadh;982.0;7100.0
+2017;Public Bus;Al-Baha;0.0;7100.0
+2017;Private Bus;Al-Qaseem;361.0;16289.0
+2017;Private Bus;Tabouk;0.0;16289.0
+2017;Private Bus;Najran;0.0;16289.0
+2017;Motor-Cycle;Tabouk;0.0;3631.0
+2017;Motor-Cycle;Hail;6.0;3631.0
+2017;Motor-Cycle;Northern Borders;1.0;3631.0
+2017;Motor-Cycle;Najran;6.0;3631.0
+2017;Vehicles;Al-Madinah Al-Monawarah;45.0;2075.0
+2017;Vehicles;Northern Borders;0.0;2075.0
+2017;Vehicles;Al-Baha;0.0;2075.0
+2018;Private;Jazan;7703.0;1118089.0
+2018;Private;Al-Jouf;4426.0;1118089.0
+2018;Taxi;Aseer;5.0;28502.0
+2018;Taxi;Hail;8.0;28502.0
+2018;Taxi;Northern Borders;0.0;28502.0
+2018;Taxi;Al-Jouf;23.0;28502.0
+2018;Public -Truck;Makkah Al-Mokarramah;5117.0;59528.0
+2018;Public -Truck;Al-Madinah Al-Monawarah;657.0;59528.0
+2018;Private-Truck;Makkah Al-Mokarramah;49370.0;186420.0
+2018;Private-Truck;Al-Madinah Al-Monawarah;1268.0;186420.0
+2018;Private-Truck;Al-Qaseem;7016.0;186420.0
+2018;Private-Truck;Tabouk;1550.0;186420.0
+2018;Private-Truck;Jazan;1933.0;186420.0
+2018;Public Bus;Eastern Region;250.0;3383.0
+2018;Public Bus;Northern Borders;0.0;3383.0
+2018;Public Bus;Jazan;1.0;3383.0
+2018;Motor-Cycle;Hail;11.0;3829.0
+2018;Vehicles;Al-Riyadh;1132.0;2324.0
+2018;Vehicles;Aseer;288.0;2324.0
+2018;Vehicles;Najran;4.0;2324.0
+2019;Private;Al-Riyadh;558203.0;1012346.0
+2019;Private;Makkah Al-Mokarramah;95080.0;1012346.0
+2019;Private;Al-Qaseem;19227.0;1012346.0
+2019;Private;Jazan;7423.0;1012346.0
+2019;Taxi;Jazan;0.0;25013.0
+2019;Taxi;Al-Baha;9.0;25013.0
+2019;Public -Truck;Hail;117.0;76275.0
+2019;Public -Truck;Jazan;379.0;76275.0
+2019;Public -Truck;Najran;537.0;76275.0
+2019;Private-Truck;Aseer;12893.0;106395.0
+2019;Public Bus;Northern Borders;0.0;4633.0
+2019;Public Bus;Al-Jouf;11.0;4633.0
+2019;Private Bus;Aseer;713.0;8701.0
+2019;Private Bus;Tabouk;0.0;8701.0
+2019;Private Bus;Najran;89.0;8701.0
+2019;Private Bus;Al-Baha;0.0;8701.0
+2019;Motor-Cycle;Al-Qaseem;77.0;4719.0
+2019;Motor-Cycle;Eastern Region;1140.0;4719.0
+2019;Vehicles;Al-Riyadh;852.0;2691.0
+2019;Vehicles;Makkah Al-Mokarramah;835.0;2691.0
+2019;Vehicles;Al-Baha;0.0;2691.0
+2019;Vehicles;Al-Jouf;46.0;2691.0
