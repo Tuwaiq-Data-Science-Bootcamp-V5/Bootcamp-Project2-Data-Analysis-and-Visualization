@@ -4,7 +4,7 @@ Diabetes is a chronic health condition that affects how your body turns food int
 ## Summary
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
-In order to adequately analyze these data to answer the key questions and make recommendations, I will follow the key steps of Data Analysis Process: Ask, Prepare, Process, Analyze, Share, and Act.
+In order to adequately analyze these data to answer the key questions and make recommendations, We will follow the key steps of Data Analysis Process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 ### I. ASK
 a. **Asks**
@@ -16,13 +16,13 @@ b. **Questions**
 3. Diabetes is correlated with what?
 
 ### II. PREPARE
-We'll be using Python and some of its popular data science-related packages. First of all, we will import pandas to read our data from a CSV file and manipulate it for further use. We will also use numpy to convert our data into a more suitable format, and data profiling for the last report. We'll use seaborn, matplotlib, and plotly for visualizations.
+We will be using Python and some of its popular data science-related packages. First of all, we will import pandas to read our data from a CSV file and manipulate it for further use. We will also use numpy to convert our data into a more suitable format, and data profiling for the last report. We will use seaborn, matplotlib, and plotly for visualizations.
 
 a. **Data Source**
 - This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases/Kaggle.
 
 b. **Data Assessment for Credibility & Integrity**
-I will utilize the ROCCC (Reliable, Original, Comprehensive, Current & Cited) data test model to determine the credibility and reliability of the dataset.
+We will utilize the ROCCC (Reliable, Original, Comprehensive, Current & Cited) data test model to determine the credibility and reliability of the dataset.
 1. Reliable — HIGH — no sample bias, the sample size is high.
 2. Original — HIGH — National Institute of Diabetes and Digestive and Kidney Diseases
 3. Comprehensive — HIGH — Data is within the parameters are clear and good.
